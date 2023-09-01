@@ -5,7 +5,7 @@ BHs Cloud Application is a Easy-to-use Cloud Application with:
 
 # Uploading Files
 Uploading Files has never been easier with our cloud application!
-Just Open our Cloud Application and press 1 for upload, type in your directory (MUST NOT END WITH \)
+Just Open our Cloud Application and press 1 for upload, type in your directory (MUST NOT END WITH A SLASH)
 Then type your file name and wait!
 
 # Downloading Files
